@@ -3,7 +3,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-      <style>body {transition: opacity ease-in 0.2s; } 
+      <style>
+         body {transition: opacity ease-in 0.2s; } 
          body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
       </style>
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
